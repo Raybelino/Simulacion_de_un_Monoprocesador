@@ -1,0 +1,14 @@
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\bin\Debug\net9.0\Simulación de un Monoprocesador.exe
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\bin\Debug\net9.0\Simulación de un Monoprocesador.deps.json
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\bin\Debug\net9.0\Simulación de un Monoprocesador.runtimeconfig.json
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\bin\Debug\net9.0\Simulación de un Monoprocesador.dll
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\bin\Debug\net9.0\Simulación de un Monoprocesador.pdb
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\obj\Debug\net9.0\Simulación de un Monoprocesador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\obj\Debug\net9.0\Simulación de un Monoprocesador.AssemblyInfoInputs.cache
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\obj\Debug\net9.0\Simulación de un Monoprocesador.AssemblyInfo.cs
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\obj\Debug\net9.0\Simulación de un Monoprocesador.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\obj\Debug\net9.0\Simulación de un Monoprocesador.dll
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\obj\Debug\net9.0\refint\Simulación de un Monoprocesador.dll
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\obj\Debug\net9.0\Simulación de un Monoprocesador.pdb
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\obj\Debug\net9.0\Simulación de un Monoprocesador.genruntimeconfig.cache
+C:\Users\Jorge Rayber Acosta\Desktop\Resumen POO\Simulación de un Monoprocesador\Simulación de un Monoprocesador\obj\Debug\net9.0\ref\Simulación de un Monoprocesador.dll
